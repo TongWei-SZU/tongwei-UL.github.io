@@ -1,3 +1,3 @@
-# tongwei-UL.github.io
+# tongwei-szu.github.io
 
-[`Tong WEI`](https://tongwei-UL.github.io/)
+[`Tong WEI`](https://tongwei-szu.github.io/)
